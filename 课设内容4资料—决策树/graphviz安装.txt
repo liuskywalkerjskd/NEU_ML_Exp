@@ -1,0 +1,7 @@
+https://blog.csdn.net/qq_42294351/article/details/119754109
+
+1、官网下载安装文件(windows 64位：graphviz-2.38.msi)
+2、安装graphviz软件
+3、配置环境变量
+4、pip install graphviz
+重启电脑就可以使用了。
